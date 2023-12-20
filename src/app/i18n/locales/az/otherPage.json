@@ -1,0 +1,47 @@
+{
+  "guidance": "Rəhbərlik",
+  "readMore": "... Ətraflı oxu",
+  "showLess": "Daha az göstər",
+  "commitees": "Komitələr",
+  "coaches": "Məşqçilər",
+  "history": "Azərbaycanın badminton tarixi",
+  "news": "Xəbərlər",
+  "readMoreNews": "... ardını oxu",
+  "gallery": "Qalereya",
+  "contact": "Əlaqə vasitələri",
+  "contactNum": "Əlaqə nömrələri",
+  "address": "Ünvan",
+  "workHours": "İş saatları",
+  "week": {
+    "monday": "Bazar ertəsi",
+    "tuesday": "Çərşənbə axşamı",
+    "wednesday": "Çərşənbə",
+    "thursday": "Cümə axşamı",
+    "friday": "Cümə"
+  },
+  "center": "İdman mərkəzləri",
+  "achievements": "Nailiyyətlərimiz",
+  "calendar": "Təqvim",
+  "training": "Təlimlər",
+  "joinTrainings": "Təlimlərə sən də qoşul",
+  "contactUs": "ƏLAQƏ",
+  "connectUs": "Bizə qoşulun",
+  "joinUs": {
+    "athleteName": "İdmançının adı",
+    "athleteSurname": "İdmançının soyadı",
+    "athletePatronymic": "İdmançının ata adı",
+    "dateOfBirth": "İdmançının təvəllüdü",
+    "chooseSportsCenter": "Getmək istədiyiniz idman mərkəzini seçin",
+    "registrant": "Qeydiyyat edən",
+    "registrantNumber": "Qeydiyyat edənin telefon nömrəsi",
+    "registrantEmail": "Qeydiyyat edənin e-mail adresi",
+    "registerName": "Qeydiyyat edənin adı",
+    "registerSurname": "Qeydiyyat edənin soyadı",
+    "registerPatronymic": "Qeydiyyat edənin ata adı"
+  },
+  "chooseOption": "Seçim edin",
+  "enter": {
+    "enter": "Daxil ol",
+    "password": "Password"
+  }
+}

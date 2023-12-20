@@ -1,0 +1,47 @@
+{
+  "guidance": "Leadership",
+  "readMore": "... Read more",
+  "showLess": "Show less",
+  "commitees": "Committees",
+  "coaches": "Coaches",
+  "history": "The History of Badminton in Azerbaijan",
+  "news": "News",
+  "readMoreNews": "... read more",
+  "gallery": "Gallery",
+  "contact": "Contact",
+  "contactNum": "Contact numbers",
+  "address": "Address",
+  "workHours": "Office hours",
+  "week": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday"
+  },
+  "center": "Sport Centers",
+  "achievements": "Our achievements",
+  "calendar": "Calendar",
+  "training": "Trainings",
+  "joinTrainings": "Join the Trainings",
+  "contactUs": "CONTACT US",
+  "connectUs": "Join Us",
+  "joinUs": {
+    "athleteName": "Athlete’s Name",
+    "athleteSurname": "Athlete’s Surname",
+    "athletePatronymic": "Athlete’s Patronymic",
+    "dateOfBirth": "Date of Birth of Athlete",
+    "chooseSportsCenter": "Choose the Sports Center You Want to Go to",
+    "registrant": "Registrant",
+    "registrantNumber": "Registrant’s Phone Number",
+    "registrantEmail": "Registrant’s E-mail Address",
+    "registerName": "Register’s Name",
+    "registerSurname": "Register’s Surname",
+    "registerPatronymic": "Register’s Patronymic"
+  },
+  "chooseOption": "Choose",
+  "enter": {
+    "enter": "Enter",
+    "password": "Password"
+  }
+}
